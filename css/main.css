@@ -55,6 +55,8 @@ header {
   column-gap: 50px;
   font-weight: 500;
   font: 14px;
+  list-style: none;
+  text-decoration: none;
 }
 
 .nav-button {
