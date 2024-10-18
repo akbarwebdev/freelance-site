@@ -64,6 +64,7 @@ header {
 .nav-button {
   display: none;
   text-decoration: none;
+  border: none;
 }
 
 .nav-link {

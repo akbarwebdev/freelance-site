@@ -38,6 +38,7 @@
     top: 46px;
     right: 30px;
     text-decoration: none;
+    border: none;
   }
 
   .nav.open .nav-button {
