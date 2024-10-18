@@ -183,6 +183,7 @@ header {
 
 .contacts-button {
   margin-bottom: 80px;
+  text-decoration: none;
 }
 .btn {
   display: inline-block;
