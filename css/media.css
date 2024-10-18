@@ -37,6 +37,7 @@
     z-index: 9;
     top: 46px;
     right: 30px;
+    text-decoration: none;
   }
 
   .nav.open .nav-button {
@@ -44,6 +45,7 @@
   }
   .header-nav {
     margin-bottom: 50px;
+    text-decoration: none;
   }
 
   .header-row {
